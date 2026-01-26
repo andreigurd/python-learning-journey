@@ -1,4 +1,6 @@
-markdown# My Python Learning Log
+markdown
+
+# My Python Learning Log
 
 ## Week 1
 - Built Magic 8-Ball
