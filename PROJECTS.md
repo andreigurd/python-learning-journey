@@ -47,6 +47,17 @@ Focus on practical applications, clean code, and version control.
 - Rating and review system
 - Reading statistics
 - Author and genre tracking
+- 
+### 5. Recipe List Manager
+**Tech:** Python, JSON, tabulate, colorama 
+**Link:** [GitHub](https://github.com/andreigurd/final-project)
+**Description:** Command line application for managing a personal recipe list. User can add, view, sort, export, and delete recipes stored in a JSON file.  
+**Key Features:**
+- Interactive menu for recipes options.
+- Filter and sort recipes for easy viewing using tabulate.
+- Run through a recipe step by step.
+- Export recipe data to readable CSV format.
+- Show statistics of recipes.
 
 ## Skills Demonstrated
 - **Data Persistence:** JSON file operations, data serialization
